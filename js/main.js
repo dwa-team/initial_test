@@ -1,6 +1,6 @@
 
 function init() {
-    alert("hola mundo");
+    // alert("hola mundo");
 }
 
 window.onload = init();

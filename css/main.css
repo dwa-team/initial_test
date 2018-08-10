@@ -1,0 +1,47 @@
+
+*{
+    font-family: arial;
+}
+
+.btnGeneral {
+    background: #5D12AA;
+    border: none;
+    border-radius: 3px;
+    padding: 12px;
+    display: inline-block;
+    color: white;
+    margin: 12px;
+    cursor: pointer;
+}
+.btnGeneral:hover {
+    background: #7623CC;
+}
+
+.sectionTitle {
+    width: 100%;
+    background: black;
+    color: white;
+    padding: 15px 0px;
+    text-align: center;
+    margin: 25px auto;
+}
+
+.sectionBtns {
+    text-align: center;
+}
+
+/* ----------------------------------*/
+/* Classes for setting up max-width */
+/* ----------------------------------*/
+.maxW1200 {
+    max-width: 1200px;
+}
+.maxW900 {
+    max-width: 900px;
+}
+.maxW600 {
+    max-width: 600px;
+}
+/* ----------------------------------*/
+
+ 
